@@ -200,8 +200,6 @@ class KateSpade:
 
 
 logIninfo = {
-    "orderNum":3559956,
-    "emailAddress":"jenny.xu@uango.com"
 
 }
 
